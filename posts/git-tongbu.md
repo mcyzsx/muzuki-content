@@ -2,6 +2,7 @@
 title: Git 同步上游仓库的更新
 description: 使用一个 Github Template 创建了我自己的仓库，需要同步一下补丁更新，总不能自己手抄一遍吧，搜了一下解决方案。记录一下。
 published: 2025-04-04
+image: https://i1.wp.com/dev.ruom.top/i/2025/04/07/995956.webp
 pinned: false
 tags: 
   - Git
@@ -11,6 +12,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 ## Git 同步上游仓库的更新

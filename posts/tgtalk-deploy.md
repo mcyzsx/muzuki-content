@@ -4,11 +4,13 @@ description: 一个基于 Cloudflare Workers 的 tg 频道消息说说。
 published: 2025-05-04
 pinned: false
 tags: ['tgtalk', '说说', '教程']
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505051857682.webp
 category: 技术分享
 # licenseName: "Unlicensed"
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 ## 部署 API

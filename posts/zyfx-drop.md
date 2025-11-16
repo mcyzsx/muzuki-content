@@ -7,10 +7,12 @@ tags:
   - DROP
   - 托管平台
 category: 资源分享
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505092245268.png
 # licenseName: "Unlicensed"
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 ## 网站简介

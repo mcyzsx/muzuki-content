@@ -4,11 +4,13 @@ description: 记录 Markdown 语法的标题语法,方便学习和查找。
 published: 2025-02-12
 pinned: false
 tags: [Markdown, 标题语法]
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/biaotiyufa.png
 category: 技术分享
 # licenseName: "Unlicensed"
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 原文位置: https://markdown.com.cn/basic-syntax/headings.html

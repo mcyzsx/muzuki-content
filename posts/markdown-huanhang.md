@@ -3,12 +3,14 @@ title: Markdown 换行语法
 description: Markdown 换行语法，如何创建换行以及最佳实践
 published: 2025-06-28
 pinned: false
+image: https://photo-kemiao.oss-cn-hangzhou.aliyuncs.com/img/markdown-huanhang.webp-ys
 tags: ['教程', '换行语法', 'markdown']
 category: 技术分享
 # licenseName: "Unlicensed"
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 > 原文链接: https://markdown.com.cn/basic-syntax/line-breaks.html

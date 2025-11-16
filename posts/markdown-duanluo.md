@@ -3,6 +3,7 @@ title: Markdown 段落语法
 description: Markdown 段落语法，如何创建段落以及最佳实践
 published: 2025-06-28
 pinned: false
+image: https://photo-kemiao.oss-cn-hangzhou.aliyuncs.com/img/markdown-duanluo.webp-ys
 tags: 
   - 教程
   - 段落语法
@@ -12,6 +13,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 > 原文位置: https://markdown.com.cn/basic-syntax/paragraphs.html

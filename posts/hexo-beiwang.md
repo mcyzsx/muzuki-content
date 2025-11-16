@@ -3,6 +3,7 @@ title: Hexo备忘
 description: Hexo 使用过程中的一些备忘事项和技巧
 published: 2025-08-16
 pinned: true
+image: https://img.314926.xyz/images/2025/08/20/hexo-beiwang-topic.webp
 tags: 
   - Hexo
   - 备忘
@@ -12,6 +13,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 # Hexo 备忘

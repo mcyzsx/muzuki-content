@@ -9,6 +9,8 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+image: https://i1.wp.com/dev.ruom.top/i/2025/04/07/951842.webp
+lang: zh-CN
 ---
 
 ## 第一部分：Vercel+Umami

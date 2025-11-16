@@ -2,6 +2,7 @@
 title: 资源分享：涂鹿Toolooz
 description: 涂鹿Toolooz：曲线文字绘制设计工具，轻松创建沿任意路径排布的精美文字
 published: 2025-05-19
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505191709690.png
 pinned: false
 tags: ['Toolooz', '网站', '设计']
 category: 资源分享
@@ -9,6 +10,7 @@ category: 资源分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 ## 涂鹿Toolooz：曲线文字绘制设计工具，轻松创建沿任意路径排布的精美文字

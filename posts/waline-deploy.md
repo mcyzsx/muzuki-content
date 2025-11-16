@@ -4,11 +4,13 @@ description: 使用Waline评论我喜欢使用的部署方法(个人认为最简
 published: 2025-04-14
 pinned: false
 tags: ['教程', 'waline', 'vercel']
+image: https://i1.wp.com/dev.ruom.top/i/2025/04/14/073842.webp
 category: 技术分享
 # licenseName: "Unlicensed"
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 > 使用Waline评论我喜欢使用的部署方法(个人认为最简便)

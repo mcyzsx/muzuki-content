@@ -2,6 +2,7 @@
 title: 来将 Telegram 当音乐播放器吧！
 description: 来将 Telegram 当音乐播放器吧！（寻找音乐、即时歌词、无损音乐不失真压缩）
 published: 2025-05-15
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151341967.jpg
 pinned: false
 tags: ['Telegram', 'Music', '音乐播放器']
 category: 技术分享
@@ -9,6 +10,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 ## 来将 Telegram 当音乐播放器吧！（寻找音乐、即时歌词、无损音乐不失真压缩）

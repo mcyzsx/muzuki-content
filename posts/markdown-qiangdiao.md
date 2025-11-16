@@ -2,6 +2,7 @@
 title: Markdown 强调语法
 description: Markdown 强调语法，如何使用星号和下划线进行文本强调
 published: 2025-07-17
+image: https://img.314926.xyz/images/2025/09/24/qiangdiao.webp
 pinned: false
 tags: ['教程', '强调语法', 'markdown']
 category: 技术分享
@@ -9,6 +10,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 > 原文链接: https://markdown.com.cn/basic-syntax/emphasis.html

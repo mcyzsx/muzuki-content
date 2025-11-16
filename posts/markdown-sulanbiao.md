@@ -9,6 +9,8 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+image: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/markdown.png
+lang: zh-CN
 ---
 
 > 原文位置: https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88

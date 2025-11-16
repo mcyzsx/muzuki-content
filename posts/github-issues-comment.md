@@ -2,6 +2,7 @@
 title: 关于github-issues当做动态的想法
 description: 起源于在不同博客游览间，看到了一篇文章，感觉很有搞头，然后到了博主的GitHub仓库，然后有了些感受。
 published: 2025-09-24
+image: https://img.314926.xyz/images/2025/09/24/github-issues.webp
 pinned: true
 tags: 
   - Github-issues
@@ -12,6 +13,7 @@ category: 技术分享
 author: 克喵爱吃卤面
 # sourceLink: "https://github.com/emn178/markdown"
 draft: false
+lang: zh-CN
 ---
 
 > 起源于在不同博客游览间，看到了一篇[文章](https://lawtee.com/article/add-live-talking-page-for-static-blog/)，感觉很有搞头，然后到了博主的[GitHub仓库](https://github.com/h2dcc/moments)，然后有了些感受。

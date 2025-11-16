@@ -1,0 +1,24 @@
+{
+	"mode": "external",
+	"hidden": false,
+	"title": "MC的PC壁纸",
+	"description": "自己找的源于互联网的MCPC壁纸合集",
+	"date": "2025-11-09",
+	"location": "网络",
+	"tags": ["MC", "PC", "壁纸"],
+	"layout": "masonry",
+	"columns": 3,
+	"cover": "https://cdn.jsdelivr.net/npm/zsx-img/PC/pc-1.png",
+	"photos": [
+		{
+			"id": "external-1",
+			"src": "https://cdn.jsdelivr.net/npm/zsx-img/PC/pc-2.png",
+			"alt": "背景 1",
+			"title": "美丽的风景",
+			"description": "夜晚MC 1",
+			"tags": ["MC", "夜晚"],
+			"width": 800,
+			"height": 600
+		}
+	]
+}
